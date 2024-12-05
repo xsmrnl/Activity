@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
-
 <?php
 
 $user = "Sarah";
@@ -42,4 +38,5 @@ switch ($user) {
 ?>
 
 
->>>>>>> sample
+
+
