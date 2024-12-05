@@ -14,6 +14,7 @@ switch ($user) {
     
     default:
         echo "Account not found!";
-        break;
+        break; 
 }
 ?>
+
